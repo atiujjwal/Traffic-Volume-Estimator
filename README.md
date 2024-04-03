@@ -1,3 +1,4 @@
 # Traffic-Volume-Estimator
 
-An ML based model to estimate traffic volume of a city under particular climatic and social variables. 
+Addressing the persistent issue of traffic congestion, TrafficTelligence presents a novel approach to traffic volume estimation by leveraging machine learning algorithms. 
+By incorporating diverse data sources and advanced models, TrafficTelligence offers commuters highly accurate predictions for optimal travel routes and timings. 
